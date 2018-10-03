@@ -1,0 +1,14 @@
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\bin\Debug\netcoreapp2.1\Library3.deps.json
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\bin\Debug\netcoreapp2.1\Library3.runtimeconfig.json
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\bin\Debug\netcoreapp2.1\Library3.runtimeconfig.dev.json
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\bin\Debug\netcoreapp2.1\Library3.dll
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\bin\Debug\netcoreapp2.1\Library3.pdb
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.csproj.CoreCompileInputs.cache
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.RazorAssemblyInfo.cache
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.RazorAssemblyInfo.cs
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.AssemblyInfoInputs.cache
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.AssemblyInfo.cs
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.RazorTargetAssemblyInfo.cache
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.dll
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.pdb
+C:\Users\a_spagnuolod\Source\repos\Library3\Library3\obj\Debug\netcoreapp2.1\Library3.csprojAssemblyReference.cache
